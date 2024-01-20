@@ -1,3 +1,6 @@
+# SDL-zig-build
+
+SDL 3 with zig build system. Very experimental.
 
 # Simple DirectMedia Layer (SDL) Version 3.0
 
